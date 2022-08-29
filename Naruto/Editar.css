@@ -1,0 +1,20 @@
+body{
+    background-image: url(imagem/Florestinha.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.T00{
+    color: black;
+    font-size: 19px;
+}
+
+.teste{
+    color: brown;
+    text-align: center;
+}
+
+.back{
+    background-color: aliceblue;
+    opacity: 0.75;
+}
