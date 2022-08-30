@@ -1,0 +1,34 @@
+body{
+    background-image: url(ImgCap02/Florestinha.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    padding-left: 250px ;
+    padding-right: 250px;
+}
+
+.back02{
+    background-color: aliceblue;
+    opacity: 0.75;
+    margin: 10px;
+    padding-top: 50px;
+    padding-left: 80px ;
+    padding-right: 80px;
+    padding-bottom: 50px;
+}
+
+.cap02{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: Impact;
+}
+
+.Texto02{
+    color: black;
+    font-size: 19px;
+    opacity: 1;
+    text-align: justify;
+    font-family: Tahoma;
+}
