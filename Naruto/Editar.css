@@ -1,0 +1,49 @@
+body{
+    background-image: url(imagem/Florestinha.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    padding-left: 250px ;
+    padding-right: 250px;
+}
+
+.Cap{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: Impact;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.Texto{
+    color: black;
+    font-size: 19px;
+    opacity: 1;
+    text-align: justify;
+    font-family: Tahoma;
+}
+
+.back{
+    background-color: aliceblue;
+    opacity: 0.75;
+    margin: 10px;
+    padding-top: 50px;
+    padding-left: 100px ;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: table;
+  }
+  
+a:hover, a:active {
+    background-color: red;
+  }
