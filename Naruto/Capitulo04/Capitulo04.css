@@ -1,0 +1,95 @@
+body{
+    background-image: url(ImgCap04/Florestinha.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    padding-left: 250px ;
+    padding-right: 250px;
+}
+
+.back04{
+    background-color: aliceblue;
+    opacity: 0.75;
+    margin: 10px;
+    padding-top: 50px;
+    padding-left: 80px ;
+    padding-right: 80px;
+    padding-bottom: 50px;
+}
+
+.fade-in-naruto {
+    animation: fadeIn 5s;
+    -webkit-animation: fadeIn 5s;
+    -moz-animation: fadeIn 5s;
+    -o-animation: fadeIn 5s;
+    -ms-animation: fadeIn 5s;
+}
+  
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+  
+@-moz-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+  
+@-webkit-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+  
+@-o-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+  
+@-ms-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+.cap04{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font-family: Impact;
+    text-shadow: 2px 2px 4px #7a7a7a;
+}
+
+.Texto04{
+    color: black;
+    font-size: 19px;
+    opacity: 1;
+    text-align: justify;
+    font-family: Tahoma;
+}
+
+#Vitoria{
+    color: rgb(155, 49, 11);
+    text-align: left;
+    font-size: 30px;
+    font-style: italic;
+    font-family: Impact;
+    text-shadow: 2px 2px 4px #7a7a7a;
+}
+
+a:link, a:visited {
+    background-color: #eb7508;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+a:hover, a:active {
+    background-color: red;
+  }
